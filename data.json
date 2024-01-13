@@ -1,0 +1,83 @@
+[
+    {
+      "name": "John Doe",
+      "age": 30,
+      "address": {
+        "street": "123 Main St",
+        "city": "Anytown",
+        "country": "USA"
+      },
+      "hobbies": ["reading", "coding", "traveling"]
+    },
+    {
+      "name": "Jane Smith",
+      "age": 25,
+      "address": {
+        "street": "456 Oak St",
+        "city": "Othercity",
+        "country": "Canada"
+      },
+      "hobbies": ["painting", "hiking", "photography"]
+    },
+    {
+      "name": "Bob Johnson",
+      "age": 35,
+      "address": {
+        "street": "789 Pine St",
+        "city": "Sometown",
+        "country": "UK"
+      },
+      "hobbies": ["playing guitar", "cooking", "gardening"]
+    },
+    {
+      "name": "Alice Williams",
+      "age": 28,
+      "address": {
+        "street": "101 Elm St",
+        "city": "Anothercity",
+        "country": "Australia"
+      },
+      "hobbies": ["yoga", "reading fiction", "travelling"]
+    },
+    {
+      "name": "Charlie Brown",
+      "age": 40,
+      "address": {
+        "street": "222 Maple St",
+        "city": "Newtown",
+        "country": "USA"
+      },
+      "hobbies": ["running", "watching movies", "fishing"]
+    },
+    {
+      "name": "Eva Green",
+      "age": 32,
+      "address": {
+        "street": "333 Birch St",
+        "city": "Greencity",
+        "country": "Canada"
+      },
+      "hobbies": ["gardening", "writing", "playing piano"]
+    },
+    {
+      "name": "David White",
+      "age": 45,
+      "address": {
+        "street": "444 Cedar St",
+        "city": "Whitetown",
+        "country": "UK"
+      },
+      "hobbies": ["cycling", "cooking", "photography"]
+    },
+    {
+      "name": "Grace Miller",
+      "age": 29,
+      "address": {
+        "street": "555 Walnut St",
+        "city": "Millertown",
+        "country": "Australia"
+      },
+      "hobbies": ["painting", "traveling", "playing violin"]
+    }
+  ]
+  
