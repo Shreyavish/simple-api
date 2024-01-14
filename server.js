@@ -1,5 +1,8 @@
 const express = require('express');
 const app = express();
+
+var cors = require('cors')
+app.use(cors())
 const port = 3000;
 const path = require('path');
 const fs = require('fs').promises;
